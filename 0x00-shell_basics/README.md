@@ -17,3 +17,4 @@ A script to move files beginning with an uppercase letter.
 A script to delete that ends with a particular character.
 A script that creates directories.
 A script to show all files and directory seperated by commas.
+A script to create a magic file.
