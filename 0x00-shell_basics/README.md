@@ -8,3 +8,4 @@ A script that creats a directory in the /tmp/ directory.
 A script to move a file in the /tmp/ directory.
 A script that deletes the moved file.
 A script to delete a directory.
+A script to change the working directory to the previous one.
