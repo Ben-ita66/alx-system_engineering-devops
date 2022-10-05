@@ -13,3 +13,4 @@ A script that lists all files (even ones with names beginning with a period char
 A script prints the type of the file.
 A script to create a symbolic link.
 A script to copy a html file.
+A script to move files beginning with an uppercase letter.
