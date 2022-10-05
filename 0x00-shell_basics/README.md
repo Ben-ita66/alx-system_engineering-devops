@@ -5,3 +5,4 @@ A script to display the current directory contents in a long format.
 A script to display the current directory contents, including hidden files (starting with .). Use the long format.
 A script to display current directory contents showing long format, user and group id's numerically and hiidden files.
 A script that creats a directory in the /tmp/ directory.
+A script to move a file in the /tmp/ directory.
