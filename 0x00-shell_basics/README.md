@@ -6,3 +6,4 @@ A script to display the current directory contents, including hidden files (star
 A script to display current directory contents showing long format, user and group id's numerically and hiidden files.
 A script that creats a directory in the /tmp/ directory.
 A script to move a file in the /tmp/ directory.
+A script that deletes the moved file.
