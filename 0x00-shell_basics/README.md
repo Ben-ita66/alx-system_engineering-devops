@@ -14,3 +14,4 @@ A script prints the type of the file.
 A script to create a symbolic link.
 A script to copy a html file.
 A script to move files beginning with an uppercase letter.
+A script to delete that ends with a particular character.
