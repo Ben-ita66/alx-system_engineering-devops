@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-ALX Shell basics
+#Alx-system_engineering devops
+ALX SHELL BASICS
